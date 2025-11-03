@@ -108,5 +108,5 @@ Olist-ECommerce-Analysis/ │ ├── SQL/ │ ├── 1_Logistics_and_Revie
 ### Contact
 
 Mohamed Shauky
-* [LinkedIn](www.linkedin.com/in/mohamedshauky)
+* [LinkedIn](https://www.linkedin.com/in/mohamed-shauky-7208a0303/)
 * [Portfolio](https://mohamedshauky.my.canva.site/)
