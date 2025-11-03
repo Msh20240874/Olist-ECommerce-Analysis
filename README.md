@@ -56,7 +56,7 @@ This project tells the story of how we used data to move from a flawed, general 
     * **Rising Star 🚀:** `fashion_childrns` (High score, low revenue) - An untapped opportunity.
     * **Dog 🐶:** `security_and_services` (Low score, low revenue) - A category to delist.
 
-![Product Portfolio Matrix]([PowerBI_Visuals/Products&sellers.png])
+![Product Portfolio Matrix](PowerBI_Visuals/Products&sellers.png)
 
 #### Analysis 3: The Voice of the Customer (NLP Root Cause)
 
@@ -70,7 +70,7 @@ This project tells the story of how we used data to move from a flawed, general 
 
 This proved that the `office_furniture` problem was a **quality and fulfillment crisis**, not just a shipping one.
 
-![NLP Word Cloud]([Notebooks/NLP.png])
+![NLP Word Cloud](Notebooks/NLP.png)
 
 ---
 
@@ -108,5 +108,5 @@ Olist-ECommerce-Analysis/ │ ├── SQL/ │ ├── 1_Logistics_and_Revie
 ### Contact
 
 Mohamed Shauky
-* [LinkedIn]([www.linkedin.com/in/mohamedshauky])
+* [LinkedIn](www.linkedin.com/in/mohamedshauky)
 * [Portfolio](https://mohamedshauky.my.canva.site/)
