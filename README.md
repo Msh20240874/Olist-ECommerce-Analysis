@@ -101,7 +101,7 @@ Based on the full analysis, I presented a 5-point strategic plan:
 ---
 
 ### Project Structure
-Olist-ECommerce-Analysis/ │ ├── SQL/ │ ├── 1_Logistics_and_Reviews.sql │ ├── 2_RFM_Customer_Segmentation.sql │ ├── 3_Product_Portfolio_Analysis.sql │ └── 4_NLP_Data_Export.sql │ ├── Notebooks/ │ └── Olist_NLP_Topic_Modeling.ipynb │ ├── PowerBI_Visuals/ │ ├── 1_Logistics_Dashboard.png │ ├── 2_RFM_Dashboard.png │ ├── 3_Product_Matrix.png │ └── 4_Financial_Dashboard.png │ └── README.md
+Olist-ECommerce-Analysis/ │ ├── SQL/ │ ├── 1_Logistics_and_Reviews.sql │ ├── 2_RFM_Customer_Segmentation.sql │ ├── 3_Product_Portfolio_Analysis.sql │ └── 4_NLP_Data_Export.sql │ ├── Notebooks/ │ └── Olist_NLP_Topic_Modeling.ipynb │ ├── PowerBI_Visuals/ │ ├── Customersegmentations.png  │ ├── Deliveryperformance.png  │ ├── Month Growth.png  │ ├── Products&sellers.png  │ └── NLP_WordCloud.png  │ └── README.md
 
 ---
 
