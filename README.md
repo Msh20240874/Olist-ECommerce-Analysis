@@ -70,7 +70,7 @@ This project tells the story of how we used data to move from a flawed, general 
 
 This proved that the `office_furniture` problem was a **quality and fulfillment crisis**, not just a shipping one.
 
-![NLP Word Cloud]([رابط لصورة الـ Word Cloud هنا])
+![NLP Word Cloud](["C:\Users\acer\OneDrive - Egyptian Ministry of Education\Pictures\download (1).png"])
 
 ---
 
@@ -101,3 +101,12 @@ Based on the full analysis, I presented a 5-point strategic plan:
 ---
 
 ### Project Structure
+Olist-ECommerce-Analysis/ │ ├── SQL/ │ ├── 1_Logistics_and_Reviews.sql │ ├── 2_RFM_Customer_Segmentation.sql │ ├── 3_Product_Portfolio_Analysis.sql │ └── 4_NLP_Data_Export.sql │ ├── Notebooks/ │ └── Olist_NLP_Topic_Modeling.ipynb │ ├── PowerBI_Visuals/ │ ├── 1_Logistics_Dashboard.png │ ├── 2_RFM_Dashboard.png │ ├── 3_Product_Matrix.png │ └── 4_Financial_Dashboard.png │ └── README.md
+
+---
+
+### Contact
+
+Mohamed Shauky
+* [LinkedIn]([www.linkedin.com/in/mohamedshauky])
+* [Portfolio](https://mohamedshauky.my.canva.site/)
